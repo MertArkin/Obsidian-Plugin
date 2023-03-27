@@ -1,0 +1,10 @@
+{
+	"id": "display-url-links-in-obsidian",
+	"name": "Display URLs in obsidian",
+	"version": "0.1.3",
+	"minAppVersion": "0.2.5",
+	"description": "A plugin that opens urls and links in a new pane in obsidian",
+	"author": "Mert Arkin",
+	"authorUrl": "https://github.com/MertArkin",
+	"isDesktopOnly": true
+}
